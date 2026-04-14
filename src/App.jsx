@@ -232,7 +232,7 @@ function MonthYearPicker({ value, onChange, min }) {
 const STORAGE_KEY = 'hipoteca-params-v1'
 
 const DEFAULT_PARAMS = {
-  capital: 51000,
+  capital: 0,
   tasa1: 0.012,
   tasa2: 0.014,
   tasa7: 0.014,
